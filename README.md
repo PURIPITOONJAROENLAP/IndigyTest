@@ -1,4 +1,4 @@
-# app_chat
+# IndigyTest
 
 A new Flutter project.
 
